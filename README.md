@@ -45,6 +45,37 @@ To ensure feature relevance and reduce noise, statistical hypothesis testing was
 This step grounds feature selection in statistical evidence rather than model-only heuristics.
 
 ---
+## 📊 Exploratory Data Analysis & Visual Insights
+
+The following visualizations were generated using Python to explore key risk
+factors associated with stroke occurrence and support data-driven conclusions.
+
+### Age Distribution by Stroke Status
+![Age Distribution](assets/Age Dist. by Stroke Status.png)
+
+> Stroke prevalence increases significantly with age, highlighting age as a
+primary risk factor.
+
+### BMI and Glucose Level Analysis
+![BMI and Glucose](assets/BMI and Glucose Level.png)
+
+> Elevated glucose levels show a stronger association with stroke risk than BMI
+alone, indicating metabolic health as a critical factor.
+
+### Stroke Rate by Key Risk Factors
+![Stroke Rate by Risk Factors](assets/Stroke rate by risk factors.png)
+
+> Hypertension, heart disease, and smoking status substantially increase stroke
+likelihood.
+
+### Stroke Rate by Age Group
+![Stroke Rate by Age Group](assets/Stroke_rate_by_age_group.png)
+
+> Stroke incidence rises sharply in older age groups, reinforcing the importance
+of early intervention and monitoring.
+
+
+---
 
 ## Feature Engineering
 The original 12 features were expanded to **25 engineered features**, including:
