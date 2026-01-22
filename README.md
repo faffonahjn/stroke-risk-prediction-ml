@@ -51,19 +51,19 @@ The following visualizations were generated using Python to explore key risk
 factors associated with stroke occurrence and support data-driven conclusions.
 
 ### Age Distribution by Stroke Status
-![Age Distribution](assets/Age Dist. by Stroke Status.png)
+![Age Distribution](assets/Age_Dist._by_Stroke_Status.png)
 
 > Stroke prevalence increases significantly with age, highlighting age as a
 primary risk factor.
 
 ### BMI and Glucose Level Analysis
-![BMI and Glucose](assets/BMI and Glucose Level.png)
+![BMI and Glucose](assets/BMI_and_Glucose_Level.png)
 
 > Elevated glucose levels show a stronger association with stroke risk than BMI
 alone, indicating metabolic health as a critical factor.
 
 ### Stroke Rate by Key Risk Factors
-![Stroke Rate by Risk Factors](assets/Stroke rate by risk factors.png)
+![Stroke Rate by Risk Factors](assets/Stroke_rate_by_risk_factors.png)
 
 > Hypertension, heart disease, and smoking status substantially increase stroke
 likelihood.
